@@ -1,6 +1,6 @@
 ## Installing Scikit Learn
 ```
-pip isntall scikit-learn
+pip install scikit-learn
 ```
 ## Importing SciKit Learn
 ```
